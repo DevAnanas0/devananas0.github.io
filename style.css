@@ -68,5 +68,7 @@ body {
 
 .logo {
     text-indent: -200000px;
-    background: url('websitelogo.png')
+    background: url('websitelogo.png');
+    width: 250px;
+    height: 250px;
 }
