@@ -66,10 +66,6 @@ body {
     padding: 16px;
 }
 
-.logo {
-    text-indent: -200000px;
-    background: url('websitelogo.png'); 
+.logo img{
     width: 250px;
-    height: 250px;
-    align-items: center;
 }
